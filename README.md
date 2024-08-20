@@ -1,0 +1,1 @@
+Executed SQL queries to perform a comprehensive analysis of a music store database. Identified senior-most employees, top invoice-generating countries, and best customers. Analyzed customer spending patterns, rock music preferences, and popular genres by country, providing insights to enhance promotional strategies and customer engagement initiatives.
